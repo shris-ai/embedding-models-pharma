@@ -7,7 +7,7 @@ This project demonstrates how specialized vs non-specialized embedding models pe
 The project compares a general-purpose model against multiple medical-specialized models:
 
 **General-Purpose Model:**
-- `all-MiniLM-L6-v2` - Fast, general-purpose sentence embeddings
+- `bert-base-uncased` - General-purpose sentence embeddings
 
 **Medical-Specialized Models:**
 - `PubMedBERT` - Fine-tuned on MS-MARCO with medical literature
